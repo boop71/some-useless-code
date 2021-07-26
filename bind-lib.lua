@@ -1,6 +1,5 @@
 local function bind(key, callback)
-	local uis = game:service('UserInputService')
-	uis.InputBegan:connect(function(k, t)
+	game:service('UserInputService').InputBegan:connect(function(k, t)
 		if t then
 			return
 		end
