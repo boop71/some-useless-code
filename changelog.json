@@ -1,7 +1,7 @@
 {
-  "version":"v7.0.2",
+  "version":"v7.0.4",
   "changes":[
-    "Added launcher",
-    "Fixed ESP not appearing in linkvertise"
+    "Fixed launcher bugs",
+    "Added back SCP 3008"
   ]
 }
