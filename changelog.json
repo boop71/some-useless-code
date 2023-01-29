@@ -1,7 +1,6 @@
 {
-  "version":"v7.0.4",
+  "version":"v7.0.5",
   "changes":[
-    "Fixed launcher bugs",
-    "Added back SCP 3008"
+    "Added hitbox expander"
   ]
 }
