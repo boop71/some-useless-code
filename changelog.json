@@ -1,6 +1,7 @@
 {
-  "version":"v7.0.5",
+  "version":"v7.0.6",
   "changes":[
-    "Added hitbox expander"
+    "added custom pattern to ESP",
+    "added reviews"
   ]
 }
