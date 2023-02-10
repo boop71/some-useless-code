@@ -43,16 +43,12 @@ end
 
 
 
-local lib = {}
-
-
-
 
 pcall(function()
     game:GetService('CoreGui')['autofarm']:Destroy()
 end)
 
-function lib:New(data)
+function lib(data)
     data.Title = type(data.Title) == 'string' and data.Title or 'Some'
     data.Subtitle = type(data.Subtitle) == 'string' and data.Subtitle or 'autofarm'
     data.WebhookChanged = type(data.WebhookChanged) == 'function' and data.WebhookChanged or function() end
