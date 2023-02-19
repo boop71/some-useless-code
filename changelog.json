@@ -1,7 +1,7 @@
 {
-  "version":"v7.0.6",
+  "version":"v7.0.7",
   "changes":[
-    "added custom pattern to ESP",
-    "added reviews"
+    "added crosshair",
+    "fixed bulwark spamming [empty]"
   ]
 }
