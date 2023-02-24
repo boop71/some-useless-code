@@ -1,5 +1,3 @@
-print('Initiating UI functions module for sexy boop')
-
 getgenv().instance = function(className,properties,children,funcs)
     local object = Instance.new(className)
     
